@@ -18,6 +18,7 @@ body {
   border: solid black 1px;
   border-radius: 5%;
   background-color: white;
+  box-shadow: 10px 10px;
   width: min(90vw, 384px); 
 }
 
